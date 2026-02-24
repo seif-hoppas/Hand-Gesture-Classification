@@ -1,0 +1,15 @@
+# Nested clone
+Hand-Gesture-Classification/
+
+# Generated files
+output.mp4
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env/
+venv/
