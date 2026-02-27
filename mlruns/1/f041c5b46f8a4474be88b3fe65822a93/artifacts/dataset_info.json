@@ -1,0 +1,26 @@
+{
+  "source_file": "hand_landmarks_data.csv",
+  "num_samples": 25675,
+  "num_features": 63,
+  "labels": [
+    "call",
+    "dislike",
+    "fist",
+    "four",
+    "like",
+    "mute",
+    "ok",
+    "one",
+    "palm",
+    "peace",
+    "peace_inverted",
+    "rock",
+    "stop",
+    "stop_inverted",
+    "three",
+    "three2",
+    "two_up",
+    "two_up_inverted"
+  ],
+  "num_classes": 18
+}

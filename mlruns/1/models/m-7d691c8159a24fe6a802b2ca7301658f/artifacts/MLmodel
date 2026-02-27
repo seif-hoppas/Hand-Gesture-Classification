@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/pc/MachineLearning/Sample_project_1/Hand-Gesture-Classification/mlruns/1/models/m-7d691c8159a24fe6a802b2ca7301658f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-7d691c8159a24fe6a802b2ca7301658f
+model_size_bytes: 1738703
+model_uuid: m-7d691c8159a24fe6a802b2ca7301658f
+prompts: null
+run_id: 26f78eca0668479e9654013fae6abe23
+utc_time_created: '2026-02-24 13:09:14.583064'
